@@ -1,0 +1,81 @@
+
+		body{
+			background-color: #EDA800;
+		}
+
+		.heading{
+			font-family: monospace;
+			float: left;
+			font-size: 20px;	
+		}
+		
+		#bar{
+			text-align: right;
+			background-color: #49bada;
+		}
+
+		#bar li{
+			display: inline-block;
+			padding: 15px 10px;
+			color: white;
+			font-size: 18px;
+			font-weight: bold;
+			letter-spacing: 2;
+		}
+
+		#logo{
+			border-radius: 60%;
+			padding: 70px;
+			float: left;
+			width: 300px;
+		}
+
+		.intro{
+			font-family: monospace;
+			font-size: 30px;
+            height: 20px;
+            width: 550px;
+            float: right;
+            margin-top: 70px;
+            margin-right: 300px;
+            color: white;
+
+        }
+
+		.tex{
+			margin: 30px;
+			padding-right: 40px;
+			font-family: monospace;
+			font-size: 20px;
+			font-weight: bold;
+		}
+
+		.bodyy{
+			align-items: center;
+		}
+
+		 .skillh{
+			font-family: monospace;
+			font-size: 20px;
+			padding: 5px;
+			margin-left: 100px;
+
+		}
+
+		.skil{
+			margin-left: 500px;
+			font-size: 40px;
+			padding: 10px;
+			font-family: monospace;
+		}
+		.bold{
+			font-size: 20px;
+			font-family: monospace;
+			margin-left: 350px;
+		}
+
+		.con{
+			font-size: 30px;
+			font-family: monospace;
+			margin: 200px;
+ 			}	

@@ -33,37 +33,50 @@
 		.intro{
 			font-family: monospace;
 			font-size: 30px;
-            height: 20px;
+            height: 300px;
             width: 550px;
             float: right;
             margin-top: 70px;
             margin-right: 300px;
             color: white;
+            box-shadow: 5px 5px 5px 5px black;
 
+        }
+        .headi{
+        	margin-left: 15px;
         }
 
 		.tex{
-			margin: 30px;
+			margin: 20px;
 			padding-right: 40px;
 			font-family: monospace;
 			font-size: 20px;
 			font-weight: bold;
 		}
 
-		.bodyy{
-			align-items: center;
-		}
-
-		 .skillh{
+		 .skill{
 			font-family: monospace;
 			font-size: 20px;
-			padding: 5px;
-			margin-left: 100px;
+			margin: 5px;
+			}
 
-		}
 
-		.skil{
-			margin-left: 500px;
+		  .card{
+			padding-top: 20px;
+			float: left;
+            height: 300px;
+            width: 225px;
+            border-radius: 10px;
+            margin-left: 90px;
+            box-shadow: 5px 5px 20px black;
+            }
+
+            .pic{
+            	width: fit-content;
+            }
+
+		.title{
+			margin-left: 34%;
 			font-size: 40px;
 			padding: 10px;
 			font-family: monospace;
@@ -72,6 +85,7 @@
 			font-size: 20px;
 			font-family: monospace;
 			margin-left: 350px;
+			text-decoration: underline;
 		}
 
 		.con{
